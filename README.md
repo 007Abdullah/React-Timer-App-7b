@@ -4,3 +4,5 @@ follow steps without eject
 
 [Medium link and follow](https://feralamillo.medium.com/create-react-app-typescript-testing-with-jest-and-enzyme-869fdba1bd3)
 
+# npm i @types/react
+# npm i @types/react-dom
