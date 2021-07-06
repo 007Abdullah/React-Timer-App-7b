@@ -1,11 +1,11 @@
 import * as React from 'react';
-import logo from './logo.svg';
+import Timer from '../Timer/Timer';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-        
+      <Timer />
     </div>
   );
 }
