@@ -37,13 +37,13 @@ const Time = () => {
                 <h1>Timer App</h1>
                 <div className="main_seocnd">
                     <div style={{ width: '35%', border: '1px solid black', margin: '20px' }}>
-                        {timeArray[0]}
+                        <h1>{timeArray[0]}</h1>
                     </div>
                     <div style={{ width: '35%', border: '1px solid black', margin: '20px' }}>
-                        {timeArray[1]}
+                        <h1>{timeArray[1]}</h1>
                     </div>
                     <div style={{ width: '35%', border: '1px solid black', margin: '20px' }}>
-                        {timeArray[2]}
+                        <h1>{timeArray[2]}</h1>
                     </div>
                 </div>
                 <br />
